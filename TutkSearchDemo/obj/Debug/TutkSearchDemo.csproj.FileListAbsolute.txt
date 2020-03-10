@@ -1,0 +1,6 @@
+G:\c#\TutkSearchDemo\TutkSearchDemo\bin\Debug\TutkSearchDemo.exe
+G:\c#\TutkSearchDemo\TutkSearchDemo\bin\Debug\TutkSearchDemo.pdb
+G:\c#\TutkSearchDemo\TutkSearchDemo\obj\Debug\TutkSearchDemo.csproj.CoreCompileInputs.cache
+G:\c#\TutkSearchDemo\TutkSearchDemo\obj\Debug\TutkSearchDemo.exe
+G:\c#\TutkSearchDemo\TutkSearchDemo\obj\Debug\TutkSearchDemo.pdb
+G:\c#\TutkSearchDemo\TutkSearchDemo\obj\Debug\TutkSearchDemo.csprojAssemblyReference.cache
